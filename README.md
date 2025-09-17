@@ -158,15 +158,6 @@ four-card-feature-section/
 3. **CSS Grid Implementation**: Advanced grid techniques for complex asymmetric layouts
 4. **Above-the-Fold Optimization**: Viewport height calculations and content fitting
 5. **Cross-Device Testing**: Comprehensive testing across screen sizes from 320px to 4K
-6. **Performance Refinement**: Optimized for fast loading and smooth interactions
-
-## ⚡ Performance Metrics
-
-- **Lighthouse Score**: 100/100 across all categories
-- **Load Time**: < 500ms on standard connections
-- **CSS Bundle**: Lightweight and optimized
-- **Above-the-Fold**: Complete content visibility without scrolling
-- **Responsive Performance**: Smooth transitions across all breakpoints
 
 ## 🤝 Contributing
 
